@@ -8,5 +8,7 @@
 ## 유니티
 >Description
 >- 인디게임 개발 프로토타입의 개발에 참여했으며 클라이언트 전 부분을 담당했습니다.
+>- Youtube Link : https://www.youtube.com/watch?v=eJojC3lSkwg
+>- GitHub LinL  : https://github.com/LongtimeProdigy/MyPortfolio
 ## 언리얼
 ## 그래픽스
