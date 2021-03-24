@@ -8,20 +8,20 @@
 ## 유니티
 >**Beautiful Knights**
 >- 인디게임 개발 프로토타입의 개발에 참여했으며 클라이언트 전 부분을 담당했습니다.
->- Youtube Link : https://www.youtube.com/watch?v=eJojC3lSkwg
->- GitHub LinL  : https://github.com/LongtimeProdigy/MyPortfolio
+>- Youtube Link : https://youtu.be/hK5tHfYWyCM
+>- GitHub LinL  : https://github.com/LongtimeProdigy/BeautifulKnights
 ## 언리얼
 >**EndBoy**
 >- 배틀그라운드를 모작으로 제작한 1인 포트폴리오용 게임입니다. Animation, UI를 제외하고 전부 C++로 제작되었으며 서버는 언리얼에서 제공되는 것으로 같이 제작되었습니다. 
->- Youtube Link : https://www.youtube.com/watch?v=eJojC3lSkwg
->- GitHub LinL  : https://github.com/LongtimeProdigy/MyPortfolio
+>- Youtube Link : https://youtu.be/UCdhgB3Bk2I
+>- GitHub LinL  : https://github.com/LongtimeProdigy/EndBoy
 ## 그래픽스
 >**CPU Raytracing**
 >- HTML의 Canvas를 이용하여 각 픽셀의 색을 Raytrace로 추출하여 적용하였습니다.
->- Youtube Link : https://www.youtube.com/watch?v=eJojC3lSkwg
->- GitHub LinL  : https://github.com/LongtimeProdigy/MyPortfolio
+>- Web Link : https://thirsty-engelbart-9828cf.netlify.app
+>- GitHub LinL  : https://github.com/LongtimeProdigy/RaytracingWeb
 
 >**CPU Rasterize**
 >- HTML의 Canvas를 이용하여 각 픽셀의 색을 Rasterize로 추출하여 적용하였습니다.
->- Youtube Link : https://www.youtube.com/watch?v=eJojC3lSkwg
->- GitHub LinL  : https://github.com/LongtimeProdigy/MyPortfolio
+>- Web Link : https://distracted-curie-2d29d0.netlify.app
+>- GitHub LinL  : https://github.com/LongtimeProdigy/ResterizeWeb
