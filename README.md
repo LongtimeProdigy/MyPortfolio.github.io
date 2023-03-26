@@ -6,7 +6,7 @@
 감사합니다.
 
 ## 개인 게임엔진 (DuckingEngine)
->**Ducking Engine v0.002
+>**Ducking Engine v0.002**
 >- 개인 공부 및 포트폴리오용으로 제작한 개인 엔진입니다.
 >- GitHub Link  : https://github.com/LongtimeProdigy/DuckingEngine_v0002
 
