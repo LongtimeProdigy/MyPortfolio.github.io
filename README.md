@@ -5,7 +5,7 @@
 현재는 C++, C#, Javascript, nodejs, MySQL등 다양한 언어와 컴퓨터 그래픽스 위주로 공부중에 있습니다.
 감사합니다.
 
-## 개인 게임엔진 (DuckingEngine)
+## 개인 게임엔진
 >**Ducking Engine v0.002**
 >- 개인 공부 및 포트폴리오용으로 제작한 개인 엔진입니다.
 >- GitHub Link  : https://github.com/LongtimeProdigy/DuckingEngine_v0002
