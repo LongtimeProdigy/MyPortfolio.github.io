@@ -1,8 +1,8 @@
 # INTRODUCTION
 ## 소개
 안녕하세요. 개발자 이영호입니다.
-2017년도부터 개발 공부를 시작하였으며 Unity와 Unreal Engine4를 주로 사용하였습니다.
-현재는 C++, C#, Javascript, nodejs, MySQL등 다양한 언어와 컴퓨터 그래픽스 위주로 공부중에 있습니다.
+2017년도부터 개발 공부를 시작하였으며 Unity와 Unreal Engine4/5, BlackSpace Engine를 주로 사용하였습니다.
+현재는 C++, C#, Javascript, nodejs 등 다양한 언어와 컴퓨터 그래픽스 위주로 공부중에 있습니다.
 감사합니다.
 
 ## 개인 게임엔진
